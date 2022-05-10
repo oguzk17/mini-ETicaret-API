@@ -1,0 +1,30 @@
+﻿Rebuild started...
+Restored C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj (in 3 ms).
+Restored C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\ETicaretAPI.Domain.csproj (in 3 ms).
+Restored C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\ETicaretAPI.Infrastructure.csproj (in 3 ms).
+1>------ Rebuild All started: Project: ETicaretAPI.Domain, Configuration: Debug Any CPU ------
+Restored C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Presentation\ETicaretAPI.API\ETicaretAPI.API.csproj (in 21 ms).
+Restored C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\ETicaretAPI.Persistence.csproj (in 21 ms).
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Product.cs(12,23,12,27): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Product.cs(17,35,17,41): warning CS8618: Non-nullable property 'Orders' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Customer.cs(12,23,12,27): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Customer.cs(13,35,13,41): warning CS8618: Non-nullable property 'Orders' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Order.cs(13,25,13,36): warning CS8618: Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Order.cs(14,24,14,31): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Order.cs(15,37,15,45): warning CS8618: Non-nullable property 'Products' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\Entities\Order.cs(16,25,16,33): warning CS8618: Non-nullable property 'Customer' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>ETicaretAPI.Domain -> C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+1>Done building project "ETicaretAPI.Domain.csproj".
+2>------ Rebuild All started: Project: ETicaretAPI.Application, Configuration: Debug Any CPU ------
+2>ETicaretAPI.Application -> C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+3>------ Rebuild All started: Project: ETicaretAPI.Persistence, Configuration: Debug Any CPU ------
+4>------ Rebuild All started: Project: ETicaretAPI.Infrastructure, Configuration: Debug Any CPU ------
+3>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\Contexts\ETicaretDbContext.cs(13,16,13,33): warning CS8618: Non-nullable property 'Products' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+3>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\Contexts\ETicaretDbContext.cs(13,16,13,33): warning CS8618: Non-nullable property 'Orders' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+3>C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\Contexts\ETicaretDbContext.cs(13,16,13,33): warning CS8618: Non-nullable property 'Customers' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+3>ETicaretAPI.Persistence -> C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.dll
+3>Done building project "ETicaretAPI.Persistence.csproj".
+4>ETicaretAPI.Infrastructure -> C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net6.0\ETicaretAPI.Infrastructure.dll
+5>------ Rebuild All started: Project: ETicaretAPI.API, Configuration: Debug Any CPU ------
+5>ETicaretAPI.API -> C:\Users\okuscu\Desktop\özel\E-Ticaret Uygulaması\ETicaretAPI\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.API.dll
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
